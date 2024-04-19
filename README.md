@@ -6,23 +6,24 @@
 
 ## Table of Contents
 
-1. [Introduction to Components](#introduction-to-components)
-2. [JSX](#jsx)
-3. [Props](#props)
-4. [Composition and Fragments](#composition-and-fragments)
-5. [Keys](#keys)
-6. [Rendering and Virtual DOM](#rendering-and-virtual-dom)
-7. [Event Handling](#event-handling)
-8. [State and useState Hook](#state-and-usestate-hook)
-9. [Controlled Components](#controlled-components)
-10. [React Hooks](#react-hooks)
-11. [Pure Components and Strict Mode](#pure-components-and-strict-mode)
-12. [Effects and useEffect Hook](#effects-and-useeffect-hook)
-13. [Refs and useRef Hook](#refs-and-useref-hook)
-14. [Context](#context)
-15. [Portals](#portals)
-16. [Suspense](#suspense)
-17. [Error Boundaries](#error-boundaries)
+1. [Introduction to Components](#1-introduction-to-components)
+2. [JSX](#2-jsx)
+3. [Props](#3-props)
+4. [Composition and Fragments](#4-composition-and-fragments)
+5. [Keys](#5-keys)
+6. [Rendering and Virtual DOM](#6-rendering-and-virtual-dom)
+7. [Event Handling](#7-event-handling)
+8. [State and useState Hook](#8-state-and-usestate-hook)
+9. [Controlled Components](#9-controlled-components)
+10. [React Hooks](#10-react-hooks)
+11. [Pure Components and Strict Mode](#11-pure-components-and-strict-mode)
+12. [Effects and useEffect Hook](#12-effects-and-useeffect-hook)
+13. [Refs and useRef Hook](#13-refs-and-useref-hook)
+14. [Context](#14-context)
+15. [Portals](#15-portals)
+16. [Suspense](#16-suspense)
+17. [Error Boundaries](#17-error-boundaries)
+
 
 ## 1. Introduction to Components
 
